@@ -1,0 +1,37 @@
+{
+  "title": "Ghost Eater Expansion",
+  "name": "foundry-pf2e-ghost-eater-expansion",
+  "description": "",
+  "manifest": "",
+  "download": "",
+  "url": "",
+  "authors": [
+    {
+      "name": "Dylan Wokeck"
+    }
+  ],
+  "version": "v1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.290"
+  },
+  "relationships": {
+    "systems": {
+      "id": "pf2e",
+      "manifest": "https://github.com/foundryvtt/pf2e/releases/download/latest/system.json",
+      "compatibility": {
+        "minimum": "4.0.0"
+      }
+    }
+  },
+  "packs": [
+    {
+      "name": "ghost-eater-expansion",
+      "label": "Ghost Eater Expansion",
+      "path": "./packs/ghost-eater-expansion.db",
+      "type": "Item",
+      "module": "Ghost Eater Expansion",
+      "system": "pf2e"
+    }
+  ]
+}
