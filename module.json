@@ -2,9 +2,9 @@
   "title": "Ghost Eater Expansion",
   "name": "foundry-pf2e-ghost-eater-expansion",
   "description": "",
-  "manifest": "",
-  "download": "",
-  "url": "",
+  "manifest": "https://raw.githubusercontent.com/Eldritch-Osiris-Games/foundry-pf2e-ghost-eater-expansion/main/module.json",
+  "download": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-ghost-eater-expansion/archive/refs/heads/main.zip",
+  "url": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-ghost-eater-expansion",
   "authors": [
     {
       "name": "Dylan Wokeck"
